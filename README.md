@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hi, I'm Adarsh Gour</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(Data+Analytics)+Student;Aspiring+Data+Analyst+%26+Data+Scientist;Passionate+about+Data%2C+AI+%26+Technology;Learn.+Build.+Analyze.+Improve.+Grow." alt="Typing Animation"/>
+</p>
+
+<p align="center">
   <b>B.Tech CSE (Data Analytics) Student | Aspiring Data Analyst & Data Scientist</b>
 </p>
 
